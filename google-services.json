@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "346973511083",
+    "project_id": "tvsaleapp",
+    "storage_bucket": "tvsaleapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346973511083:android:7dbc9a1235bdc9573b86ee",
+        "android_client_info": {
+          "package_name": "com.example.uiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346973511083-kepuobieqaaeq4qplt7o9bdhmjdgvni1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uiapp",
+            "certificate_hash": "fd480b2f6278134ad7643d54abfb591f8b80fac2"
+          }
+        },
+        {
+          "client_id": "346973511083-sdd8g3n1flrlii1vcdft10qnb0kfc12t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0MFcKXOmc5LPQicSlUgjO4FGoGCfM5Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346973511083-sdd8g3n1flrlii1vcdft10qnb0kfc12t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
